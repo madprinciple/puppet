@@ -1,0 +1,5 @@
+
+  service { 'postfix':
+    ensure => 'stopped',
+  }
+
